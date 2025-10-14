@@ -8,4 +8,5 @@ The contents of this repository are licensed under the [Creative Commons Attribu
 
 # Access to specific supplementary materials 
 
-- [Argueta-Zepeda et al. BIORXIV/2025/682371 - Version 1.])(https://github.com/vinuesa/supplementary_materials/tree/master/docs/Argueta-Zepeda_suppl_tables.pdf)
+## 2025
+- [Argueta-Zepeda et al. BIORXIV/2025/682371 - Version 1.](https://github.com/vinuesa/supplementary_materials/tree/master/docs/Argueta-Zepeda_suppl_tables.pdf)
