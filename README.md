@@ -13,7 +13,7 @@ The contents of this repository are licensed under the [Creative Commons Attribu
 ### Supplemental data for Argueta-Zepeda et al. (2025)
 Fulvia-Stefany Argueta-Zepeda, Javier Rivera, Julio César Valerdi-Negreros, Christopher Rensing,and Pablo Vinuesa* (2025). The *Stenotrophomonas maltophilia* MntR miniregulon includes novel extracytoplasmic components and affects replication in *Acanthamoeba castellanii* phagosomes. [bioRxiv preprint, posted October 14, 2025](https://doi.org/10.1101/2025.10.14.682371). 
 
-- [Supplemental Tables S1-S6 and supplemental FIG S1](https://github.com/vinuesa/supplementary_materials/blob/main/docs/Argueta-Zepeda_Stenotrophomonas_MntR_miniregulon/Argueta-Zepeda_suppl_data.pdf).
+- [Supplemental Tables S1-S6 and supplemental FIG S1](https://github.com/vinuesa/supplementary_materials/blob/main/docs/Argueta-Zepeda_Stenotrophomonas_MntR_miniregulon/Argueta-Zepeda_supplemental_data.pdf).
 - [CQNC-TBDR.hmm](https://github.com/vinuesa/supplementary_materials/blob/main/docs/Argueta-Zepeda_Stenotrophomonas_MntR_miniregulon/CQNC-TBDR.hmm)
 - [MntR.hmm](https://github.com/vinuesa/supplementary_materials/blob/main/docs/Argueta-Zepeda_Stenotrophomonas_MntR_miniregulon/MntR.hmm)
 - [pTFP.hmm](https://github.com/vinuesa/supplementary_materials/blob/main/docs/Argueta-Zepeda_Stenotrophomonas_MntR_miniregulon/pTFP.hmm)
